@@ -1,0 +1,74 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(377,5): warning MSB8004: Output 目录未以斜杠结尾。  此生成实例将添加斜杠，因为必须有这个斜杠才能正确计算 Output 目录。
+  main.cpp
+e:\papertest2\include\opencv2\core\mat.hpp(1964): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+e:\papertest2\include\opencv2\core\persistence.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+e:\papertest2\include\opencv2\core\utility.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+e:\papertest2\include\opencv2\core\utility.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+e:\papertest2\include\gdal\cpl_string.h(339): warning C4251: “std::_String_alloc<std::_String_base_types<_Elem,_Alloc>>::_Mypair”: class“std::_Compressed_pair<std::allocator<char>,std::_String_val<std::_Simple_types<_Ty>>,true>”需要有 dll 接口由 class“std::_String_alloc<std::_String_base_types<_Elem,_Alloc>>”的客户端使用
+          with
+          [
+              _Elem=char,
+              _Alloc=std::allocator<char>
+          ]
+          and
+          [
+              _Ty=char
+          ]
+          and
+          [
+              _Elem=char,
+              _Alloc=std::allocator<char>
+          ]
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\xstring(2052): note: 参见“std::_Compressed_pair<std::allocator<char>,std::_String_val<std::_Simple_types<_Ty>>,true>”的声明
+          with
+          [
+              _Ty=char
+          ]
+e:\papertest2\include\gdal\gdal_priv.h(756): warning C4251: “GDALColorTable::aoEntries”: class“std::vector<GDALColorEntry,std::allocator<_Ty>>”需要有 dll 接口由 class“GDALColorTable”的客户端使用
+          with
+          [
+              _Ty=GDALColorEntry
+          ]
+  e:\papertest2\include\gdal\gdal_priv.h(756): note: 参见“std::vector<GDALColorEntry,std::allocator<_Ty>>”的声明
+          with
+          [
+              _Ty=GDALColorEntry
+          ]
+e:\papertest2\include\gdal\gdal_priv.h(1277): warning C4251: “GDALDriverManager::oMapNameToDrivers”: class“std::map<CPLString,GDALDriver *,std::less<_Kty>,std::allocator<std::pair<const _Kty,_Ty>>>”需要有 dll 接口由 class“GDALDriverManager”的客户端使用
+          with
+          [
+              _Kty=CPLString,
+              _Ty=GDALDriver *
+          ]
+  e:\papertest2\include\gdal\gdal_priv.h(1277): note: 参见“std::map<CPLString,GDALDriver *,std::less<_Kty>,std::allocator<std::pair<const _Kty,_Ty>>>”的声明
+          with
+          [
+              _Kty=CPLString,
+              _Ty=GDALDriver *
+          ]
+e:\papertest2\imagestitching\imagestiching\gms_matcher.h(147): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+e:\papertest2\imagestitching\imagestiching\gms_matcher.h(148): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+e:\papertest2\imagestitching\imagestiching\gms_matcher.h(156): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+e:\papertest2\imagestitching\imagestiching\gms_matcher.h(157): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+e:\papertest2\imagestitching\imagestiching\gms_matcher.h(165): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+e:\papertest2\imagestitching\imagestiching\gms_matcher.h(166): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+e:\papertest2\imagestitching\imagestiching\gms_matcher.h(174): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+e:\papertest2\imagestitching\imagestiching\gms_matcher.h(175): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+e:\papertest2\imagestitching\imagestiching\gms_matcher.h(186): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+e:\papertest2\imagestitching\imagestiching\gms_matcher.h(187): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+e:\papertest2\imagestitching\imagestiching\gms_matcher.h(232): warning C4244: “=”: 从“double”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=int
+          ]
+e:\papertest2\imagestitching\imagestiching\gms_matcher.h(233): warning C4244: “=”: 从“double”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=int
+          ]
+e:\papertest2\imagestitching\imagestiching\gms_matcher.h(419): warning C4244: “初始化”: 从“_Tp”转换到“int”，可能丢失数据
+          with
+          [
+              _Tp=double
+          ]
+  ImageStiching.vcxproj -> E:\Papertest2\ImageStitching\ImageStiching\bin\ImgStiching_d.exe

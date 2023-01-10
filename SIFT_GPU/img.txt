@@ -1,0 +1,8 @@
+E:\Papertest2\ImageStitching\SIFT_GPU\test\panorama_1.jpg
+E:\Papertest2\ImageStitching\SIFT_GPU\test\panorama_2.jpg
+E:\Papertest2\ImageStitching\SIFT_GPU\test\panorama_3.jpg
+E:\Papertest2\ImageStitching\SIFT_GPU\test\panorama_4.jpg
+E:\Papertest2\ImageStitching\SIFT_GPU\test\panorama_5.jpg
+E:\Papertest2\ImageStitching\SIFT_GPU\test\panorama_6.jpg
+E:\Papertest2\ImageStitching\SIFT_GPU\test\panorama_7.jpg
+E:\Papertest2\ImageStitching\SIFT_GPU\test\panorama_8.jpg

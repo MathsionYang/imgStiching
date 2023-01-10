@@ -1,0 +1,9 @@
+﻿  imgstichingGMS.cpp
+e:\papertest2\include\opencv2\core\mat.hpp(1964): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+e:\papertest2\include\opencv2\core\persistence.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+e:\papertest2\include\opencv2\core\utility.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+e:\papertest2\include\opencv2\core\utility.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+e:\papertest2\imagestitching\imgstiching_gms\featuredetectandmatch.hpp(30): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+e:\papertest2\imagestitching\imgstiching_gms\imgstichinggms.cpp(9): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+e:\papertest2\imagestitching\imgstiching_gms\loadimgfrompath.hpp(46): warning C4715: “LoadImgFromPath::GetFiles”: 不是所有的控件路径都返回值
+  ImgStiching_GMS.vcxproj -> E:\Papertest2\ImageStitching\ImgStiching2\x64\Debug\ImgStiching_GMS.exe
